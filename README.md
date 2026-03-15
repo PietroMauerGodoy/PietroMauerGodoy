@@ -1,9 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Pietro%20Mauer%20Godoy&fontSize=40&fontColor=ffffff"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pietro%20Mauer%20Godoy&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20Automation%20Intern&descAlign=50&descAlignY=55"/>
+</p>
 
-<h2 align="center">Computer Science Student • AI Automation Intern</h2>
+<h3 align="center">
+Computer Science Student • AI Automation Intern
+</h3>
 
 <p align="center">
-Passionate about building intelligent systems using automation, data and software engineering.
+Building intelligent systems using automation, data and software engineering.
 </p>
 
 ---
@@ -41,4 +45,10 @@ Passionate about building intelligent systems using automation, data and softwar
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
+
+---
+
+
