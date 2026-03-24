@@ -1,22 +1,23 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pietro%20Mauer%20Godoy&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20Automation%20Intern&descAlign=50&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pietro%20Mauer%20Godoy&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20%7C%20Backend&descAlign=50&descAlignY=55"/>
 </p>
 
 <h3 align="center">
-Computer Science Student • AI Automation Intern
+AI Engineer in Progress • Automation Builder • Backend Developer
 </h3>
 
 <p align="center">
-Building intelligent systems using automation, data and software engineering.
+I build intelligent systems that automate processes, integrate data and scale real-world solutions.
 </p>
 
 ---
 
-### 🧠 About
+### 🧠 About Me
 
-- Computer Science student at **FIAP**
-- AI & Automation Intern at **Starmeta**
-- Interested in **Artificial Intelligence, Automation and Data**
+- 🎓 Computer Science student at **FIAP**
+- 🤖 AI & Automation Intern at **Starmeta**
+- ⚡ Focused on building **AI-driven automation systems**
+- 📊 Interested in **Data, Backend and Applied AI**
 
 ---
 
@@ -24,18 +25,31 @@ Building intelligent systems using automation, data and software engineering.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,git,linux,docker"/>
 
 </p>
 
 ---
 
-### 🤖 Tools & Technologies
+### 🤖 AI & Automation Stack
 
-- n8n  
-- Machine Learning  
-- API Integrations  
-- Prompt Engineering (RAG, Few-shot, CoT)
+- **LangChain** (LLM orchestration & RAG pipelines)
+- **n8n** (workflow automation & integrations)
+- **Supabase** (database, auth & realtime backend)
+- **OpenAI API / LLMs**
+- **Vector Databases** (embeddings & semantic search)
+- **Prompt Engineering** (RAG, Few-shot, CoT)
+- **API Integrations** (REST, Webhooks, SaaS tools)
+
+---
+
+### 🚀 What I Build
+
+- AI-powered automation systems  
+- Intelligent assistants (RAG-based)  
+- Workflow automation for businesses  
+- Backend systems with real-time data  
+- Scalable integrations between APIs and AI models  
 
 ---
 
@@ -48,7 +62,3 @@ Building intelligent systems using automation, data and software engineering.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
-
----
-
-
