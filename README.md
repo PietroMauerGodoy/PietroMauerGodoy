@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial-Intelligence-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge"/>
 </p>
 
 ---
@@ -19,7 +19,9 @@
 
 Computer Science student at **FIAP** focused on **Data Engineering, Artificial Intelligence and Automation**.
 
-Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing data-driven solutions, intelligent systems and business automations.
+Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing data-driven solutions, intelligent systems, AI agents and business automations.
+
+I enjoy building solutions that combine data, backend engineering and artificial intelligence to solve real-world problems and generate business impact.
 
 ---
 
@@ -29,7 +31,7 @@ Currently working as a **Data Intern at Avenue** and previously as an **AI & Aut
 
 🤖 Former AI & Automation Intern at Starmeta
 
-🎓 Computer Science @ FIAP
+🎓 Computer Science Student @ FIAP
 
 🚀 Building Data, AI and Automation Solutions
 
@@ -46,7 +48,9 @@ Currently working as a **Data Intern at Avenue** and previously as an **AI & Aut
 
 <td align="center" width="35%">
 
-<img src="./images/avenueus_logo.jpg" height="110"/>
+<img src="./images/avenueus_logo.jpg" width="220"/>
+
+<br><br>
 
 ### 📊 Avenue
 
@@ -60,11 +64,15 @@ SQL & Databases
 
 Data-Driven Solutions
 
+Analytics & Reporting
+
 </td>
 
 <td align="center" width="35%">
 
-<img src="./images/STARMETA_LOGO.png" height="110"/>
+<img src="./images/STARMETA_LOGO.png" width="220"/>
+
+<br><br>
 
 ### 🤖 Starmeta
 
@@ -74,9 +82,15 @@ AI Agents
 
 LangChain & LangGraph
 
+n8n Automation
+
 Workflow Automation
 
 LLM Integrations
+
+Backend Integrations
+
+Process Optimization
 
 </td>
 
@@ -117,7 +131,7 @@ AI-powered solar simulation assistant and intelligent energy management platform
 
 **Stack**
 
-Artificial Intelligence • Automation • Analytics
+Artificial Intelligence • Automation • Energy Analytics
 
 </td>
 
@@ -149,21 +163,15 @@ React • TypeScript • Data Analysis
 
 ### Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
-</p>
 
 ### Backend & Databases
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,mongodb"/>
-</p>
 
 ### Infrastructure & Tools
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
-</p>
 
 ---
 
@@ -179,6 +187,7 @@ React • TypeScript • Data Analysis
 - REST APIs
 - Webhooks
 - Workflow Automation
+- LLM Integrations
 
 ---
 
@@ -195,23 +204,21 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Areas of Interest
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PIETROMAUERGODOY&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIETROMAUERGODOY&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PIETROMAUERGODOY&theme=tokyonight&hide_border=true"/>
-</p>
+- Data Engineering
+- Data Analytics
+- Artificial Intelligence
+- Workflow Automation
+- Business Intelligence
+- Backend Development
+- Cloud Computing
 
 ---
 
 # 📬 Contact
 
-<p align="center">
+<p>
 
 <a href="mailto:godoypietro03@gmail.com">
 <img src="https://img.shields.io/badge/Email-godoypietro03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
