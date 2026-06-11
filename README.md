@@ -27,95 +27,72 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 # 📍 Current Journey
 
-🏢 Data Intern at Avenue
-
-🤖 Former AI & Automation Intern at Starmeta
-
-🎓 Computer Science Student @ FIAP
-
-🚀 Building Data, AI and Automation Solutions
+- 🏢 Data Intern at Avenue
+- 🤖 Former AI & Automation Intern at Starmeta
+- 🎓 Computer Science Student @ FIAP
+- 🚀 Building Data, AI and Automation Solutions
 
 ---
 
 # 💼 Experience
 
-<p align="center">
-
 <table>
 <tr>
 
-<td width="10%"></td>
+<td valign="top" width="50%">
 
-<td align="center" width="35%">
-
-<img src="./images/avenueus_logo.jpg" width="220"/>
-
-<br><br>
+<img src="./images/avenueus_logo.jpg" width="180"/>
 
 ### 📊 Avenue
 
 **Data Intern**
 
-Data Analysis
-
-Business Intelligence
-
-SQL & Databases
-
-Data-Driven Solutions
-
-Analytics & Reporting
+- Python
+- Databricks
+- SQL
+- Data Analysis
+- Data Processing
+- Business Intelligence
+- Analytics & Reporting
+- Data-Driven Solutions
 
 </td>
 
-<td align="center" width="35%">
+<td valign="top" width="50%">
 
-<img src="images\STARMETA_LOGO.jpg" width="220"/>
-
-<br><br>
+<img src="./images/STARMETA_LOGO.png" width="180"/>
 
 ### 🤖 Starmeta
 
 **AI & Automation Intern**
 
-AI Agents
-
-LangChain & LangGraph
-
-n8n Automation
-
-Workflow Automation
-
-LLM Integrations
-
-Backend Integrations
-
-Process Optimization
+- AI Agents
+- LangChain
+- LangGraph
+- n8n Automation
+- Workflow Automation
+- LLM Integrations
+- Backend Integrations
+- Process Optimization
 
 </td>
 
-<td width="10%"></td>
-
 </tr>
 </table>
-
-</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-
 <table>
 
 <tr>
 
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
 ### 🍽 ranGO!
 
-Restaurant inventory and operational management platform focused on inventory control, suppliers and operational efficiency.
+Restaurant inventory and operational management platform focused on inventory control, supplier management and operational efficiency.
 
 **Stack**
 
@@ -123,7 +100,7 @@ JavaScript • HTML • CSS • MongoDB
 
 </td>
 
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
 ### ☀️ GoodWe Challenge
 
@@ -139,11 +116,11 @@ Artificial Intelligence • Automation • Energy Analytics
 
 <tr>
 
-<td align="center" colspan="2">
+<td valign="top" colspan="2">
 
 ### 🌱 Motiva Challenge
 
-Data-driven vegetation monitoring platform developed for highway concessionaires, supporting operational planning and maintenance optimization.
+Data-driven vegetation monitoring platform developed for highway concessionaires, supporting operational planning, maintenance optimization and decision-making.
 
 **Stack**
 
@@ -155,8 +132,6 @@ React • TypeScript • Data Analysis
 
 </table>
 
-</p>
-
 ---
 
 # 🛠 Tech Stack
@@ -165,9 +140,13 @@ React • TypeScript • Data Analysis
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
 
-### Backend & Databases
+### Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 ### Infrastructure & Tools
 
@@ -193,7 +172,9 @@ React • TypeScript • Data Analysis
 
 # 📊 Data & Analytics
 
+- Python
 - SQL
+- Databricks
 - PostgreSQL
 - Data Analysis
 - Data Processing
@@ -218,8 +199,6 @@ React • TypeScript • Data Analysis
 
 # 📬 Contact
 
-<p>
-
 <a href="mailto:godoypietro03@gmail.com">
 <img src="https://img.shields.io/badge/Email-godoypietro03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -227,8 +206,6 @@ React • TypeScript • Data Analysis
 <a href="https://www.linkedin.com/in/pietro-mauer-godoy-0161932b1">
 <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Mauer%20Godoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
