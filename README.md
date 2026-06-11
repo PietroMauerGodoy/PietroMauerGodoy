@@ -7,112 +7,158 @@
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial-Intelligence-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-Systems-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Development-orange?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Pietro
 
-I'm a Computer Science student at FIAP passionate about building solutions that connect **Data, Artificial Intelligence, Automation and Software Engineering**.
+Computer Science student at **FIAP** passionate about building solutions that combine **Data, Artificial Intelligence, Automation and Software Engineering**.
 
-Currently working as a **Data Intern at Avenue**, where I continue expanding my experience with data-driven systems and business-oriented technology solutions.
+Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing intelligent systems, automations and data-driven solutions.
 
-Previously, I worked as an **AI & Automation Intern at Starmeta**, developing automations, AI-powered workflows and intelligent systems using modern LLM technologies.
+---
 
-My goal is to build scalable solutions that transform data into actionable insights and measurable business impact.
+# 🎯 Professional Highlights
+
+- 📊 Data Intern at Avenue
+- 🤖 Former AI & Automation Intern at Starmeta
+- 🎓 Computer Science Student at FIAP
+- 🚀 Experience with Data, AI, Automation and Backend Development
 
 ---
 
 # 💼 Experience
 
-### 📊 Avenue
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="./images/avenueus_logo.jpg" height="90"/>
+
+### Avenue
+
 **Data Intern**
 
-- Data analysis and processing
-- Business-oriented data solutions
-- Data-driven decision support
-- Database and analytics activities
+📊 Data Analysis
 
-### 🤖 Starmeta
+📈 Business Intelligence
+
+🗄 SQL & Databases
+
+⚡ Data-Driven Solutions
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="./images/STARMETA_LOGO.png" height="90"/>
+
+### Starmeta
+
 **AI & Automation Intern**
 
-- AI-powered automation development
-- Workflow orchestration
-- LLM integrations
-- Intelligent assistants
-- Backend integrations
-- Process optimization
+🤖 AI Agents
+
+🔗 LangChain & LangGraph
+
+⚙️ Workflow Automation
+
+🚀 LLM Integrations
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+
+<tr>
+
+<td width="50%">
+
 ## 🍽 ranGO!
 
-Restaurant inventory and operations management platform developed to improve stock control, supplier management, order tracking and operational efficiency.
+Restaurant inventory and operational management platform.
 
-**Technologies:**
-JavaScript • HTML • CSS
+### Technologies
 
----
+JavaScript • HTML • CSS • MongoDB
+
+</td>
+
+<td width="50%">
 
 ## ☀️ GoodWe Challenge
 
-Smart energy management platform featuring:
+AI-powered solar simulation and intelligent energy management solution.
 
-- AI-powered solar simulation assistant
-- Intelligent lighting control
-- Energy consumption monitoring
-- Operational dashboards
+### Technologies
 
-**Technologies:**
-Automation • AI • Energy Analytics
+Artificial Intelligence • Automation • Analytics
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## 🌱 Motiva Challenge
 
-Data-driven vegetation monitoring system for highway concessionaires.
+Vegetation monitoring platform for highway concessionaires.
 
-Main features:
+### Technologies
 
-- Vegetation monitoring
-- Operational planning support
-- Maintenance optimization
-- Data visualization
-- Decision support systems
+React • TypeScript • Data Analysis
 
-**Technologies:**
-Data Analysis • Typescript • Mobile Development • React
+</td>
+
+<td width="50%">
+
+## 🌍 GeoRelato
+
+CLI application for disaster reporting with geospatial validation.
+
+### Technologies
+
+Python • Algorithms • Data Structures
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,mongodb"/>
 </p>
 
-## Development & Infrastructure
+### Infrastructure & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
 </p>
 
@@ -123,13 +169,12 @@ Data Analysis • Typescript • Mobile Development • React
 - LangChain
 - LangGraph
 - OpenAI API
-- RAG Architectures
 - AI Agents
+- RAG Architectures
 - Prompt Engineering
-- Vector Databases
 - n8n
-- Webhooks
 - REST APIs
+- Webhooks
 - Workflow Automation
 
 ---
@@ -138,46 +183,45 @@ Data Analysis • Typescript • Mobile Development • React
 
 - SQL
 - PostgreSQL
+- Data Analysis
+- Data Processing
 - Data Modeling
 - ETL Concepts
-- Data Processing
-- Data Analysis
+- Business Intelligence
 - Data Visualization
-- Business Intelligence Fundamentals
 
 ---
 
-# 🎯 Current Focus
-
-- Data Engineering
-- Artificial Intelligence
-- Data Analytics
-- Backend Development
-- Cloud Computing
-- Automation Platforms
-
----
-
-# 📫 Contact
-
-📧 **Email:**  
-**godoypietro03@gmail.com**
-
-💼 **LinkedIn:**  
-www.linkedin.com/in/pietro-mauer-godoy-0161932b1
-
----
+# 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:godoypietro03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-
-  <a href="https://www.linkedin.com/in/pietro-mauer-godoy-0161932b1">
-    <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Mauer%20Godoy-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PIETROMAUERGODOY&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIETROMAUERGODOY&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PIETROMAUERGODOY&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="mailto:godoypietro03@gmail.com">
+<img src="https://img.shields.io/badge/Email-godoypietro03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pietro-mauer-godoy-0161932b1">
+<img src="https://img.shields.io/badge/LinkedIn-Pietro%20Mauer%20Godoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
