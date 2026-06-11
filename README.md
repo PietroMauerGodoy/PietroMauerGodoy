@@ -60,7 +60,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 <td valign="top" width="50%">
 
-<img src="./images/STARMETA_LOGO.png" width="180"/>
+<img src="images\STARMETA_LOGO.jpg" width="180"/>
 
 ### 🤖 Starmeta
 
