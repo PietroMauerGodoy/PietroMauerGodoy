@@ -140,13 +140,10 @@ React • TypeScript • Data Analysis
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
 
-### Data & Analytics
+### Data Analytics & Backend
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,nodejs"/>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 ### Infrastructure & Tools
 
