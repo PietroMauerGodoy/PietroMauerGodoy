@@ -15,94 +15,107 @@
 
 ---
 
-# 👋 Hello, I'm Pietro
+# 👨‍💻 About Me
 
-Computer Science student at **FIAP** passionate about building solutions that combine **Data, Artificial Intelligence, Automation and Software Engineering**.
+Computer Science student at **FIAP** focused on **Data Engineering, Artificial Intelligence and Automation**.
 
-Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing intelligent systems, automations and data-driven solutions.
+Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing data-driven solutions, intelligent systems and business automations.
 
 ---
 
-# 🎯 Professional Highlights
+# 📍 Current Journey
 
-- 📊 Data Intern at Avenue
-- 🤖 Former AI & Automation Intern at Starmeta
-- 🎓 Computer Science Student at FIAP
-- 🚀 Experience with Data, AI, Automation and Backend Development
+🏢 Data Intern at Avenue
+
+🤖 Former AI & Automation Intern at Starmeta
+
+🎓 Computer Science @ FIAP
+
+🚀 Building Data, AI and Automation Solutions
 
 ---
 
 # 💼 Experience
 
+<p align="center">
+
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="10%"></td>
 
-<img src="./images/avenueus_logo.jpg" height="90"/>
+<td align="center" width="35%">
 
-### Avenue
+<img src="./images/avenueus_logo.jpg" height="110"/>
+
+### 📊 Avenue
 
 **Data Intern**
 
-📊 Data Analysis
+Data Analysis
 
-📈 Business Intelligence
+Business Intelligence
 
-🗄 SQL & Databases
+SQL & Databases
 
-⚡ Data-Driven Solutions
+Data-Driven Solutions
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="35%">
 
-<img src="./images/STARMETA_LOGO.png" height="90"/>
+<img src="./images/STARMETA_LOGO.png" height="110"/>
 
-### Starmeta
+### 🤖 Starmeta
 
 **AI & Automation Intern**
 
-🤖 AI Agents
+AI Agents
 
-🔗 LangChain & LangGraph
+LangChain & LangGraph
 
-⚙️ Workflow Automation
+Workflow Automation
 
-🚀 LLM Integrations
+LLM Integrations
 
 </td>
 
+<td width="10%"></td>
+
 </tr>
 </table>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+<p align="center">
+
 <table>
 
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## 🍽 ranGO!
+### 🍽 ranGO!
 
-Restaurant inventory and operational management platform.
+Restaurant inventory and operational management platform focused on inventory control, suppliers and operational efficiency.
 
-### Technologies
+**Stack**
 
 JavaScript • HTML • CSS • MongoDB
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-## ☀️ GoodWe Challenge
+### ☀️ GoodWe Challenge
 
-AI-powered solar simulation and intelligent energy management solution.
+AI-powered solar simulation assistant and intelligent energy management platform.
 
-### Technologies
+**Stack**
 
 Artificial Intelligence • Automation • Analytics
 
@@ -112,33 +125,23 @@ Artificial Intelligence • Automation • Analytics
 
 <tr>
 
-<td width="50%">
+<td align="center" colspan="2">
 
-## 🌱 Motiva Challenge
+### 🌱 Motiva Challenge
 
-Vegetation monitoring platform for highway concessionaires.
+Data-driven vegetation monitoring platform developed for highway concessionaires, supporting operational planning and maintenance optimization.
 
-### Technologies
+**Stack**
 
 React • TypeScript • Data Analysis
-
-</td>
-
-<td width="50%">
-
-## 🌍 GeoRelato
-
-CLI application for disaster reporting with geospatial validation.
-
-### Technologies
-
-Python • Algorithms • Data Structures
 
 </td>
 
 </tr>
 
 </table>
+
+</p>
 
 ---
 
@@ -196,7 +199,7 @@ Python • Algorithms • Data Structures
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PIETROMAUERGODOY&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIETROMAUERGODOY&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
