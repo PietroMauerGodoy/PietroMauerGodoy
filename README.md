@@ -200,7 +200,7 @@ React • TypeScript • Data Analysis
 <img src="https://img.shields.io/badge/Email-godoypietro03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pietro-mauer-godoy-0161932b1">
+<a href="https://www.linkedin.com/in/pietromauer">
 <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Mauer%20Godoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
