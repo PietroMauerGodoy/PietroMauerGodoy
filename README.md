@@ -70,7 +70,7 @@ Analytics & Reporting
 
 <td align="center" width="35%">
 
-<img src="./images/STARMETA_LOGO.png" width="220"/>
+<img src="images\STARMETA_LOGO.jpg" width="220"/>
 
 <br><br>
 
