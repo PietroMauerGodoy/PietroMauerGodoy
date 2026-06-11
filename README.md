@@ -96,7 +96,7 @@ Restaurant inventory and operational management platform focused on inventory co
 
 **Stack**
 
-JavaScript • HTML • CSS • MongoDB
+JavaScript • HTML • CSS 
 
 </td>
 
