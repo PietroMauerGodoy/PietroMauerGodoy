@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Data+Intern+at+Avenue;Former+AI+%26+Automation+Intern+at+Starmeta;Computer+Science+Student+at+FIAP;Building+Data-Driven+and+AI-Powered+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Intern+at+Starmeta;Computer+Science+Student+at+FIAP;Building+Data-Driven+and+AI-Powered+Solutions"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 Computer Science student at **FIAP** focused on **Data Engineering, Artificial Intelligence and Automation**.
 
-Currently working as a **Data Intern at Avenue** and previously as an **AI & Automation Intern at Starmeta**, developing data-driven solutions, intelligent systems, AI agents and business automations.
+Currently working as an **AI & Automation Intern at Starmeta**, developing intelligent systems, AI agents, automations and data-driven solutions.
 
 I enjoy building solutions that combine data, backend engineering and artificial intelligence to solve real-world problems and generate business impact.
 
@@ -27,8 +27,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 # 📍 Current Journey
 
-- 🏢 Data Intern at Avenue
-- 🤖 Former AI & Automation Intern at Starmeta
+- 🤖 AI & Automation Intern at Starmeta
 - 🎓 Computer Science Student @ FIAP
 - 🚀 Building Data, AI and Automation Solutions
 
@@ -36,31 +35,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 # 💼 Experience
 
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
-<img src="./images/avenueus_logo.jpg" width="180"/>
-
-### 📊 Avenue
-
-**Data Intern**
-
-- Python
-- Databricks
-- SQL
-- Data Analysis
-- Data Processing
-- Business Intelligence
-- Analytics & Reporting
-- Data-Driven Solutions
-
-</td>
-
-<td valign="top" width="50%">
-
-<img src="images\STARMETA_LOGO.jpg" width="180"/>
+<img src="images/STARMETA_LOGO.jpg" width="180"/>
 
 ### 🤖 Starmeta
 
@@ -74,11 +49,6 @@ I enjoy building solutions that combine data, backend engineering and artificial
 - LLM Integrations
 - Backend Integrations
 - Process Optimization
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -96,7 +66,7 @@ Restaurant inventory and operational management platform focused on inventory co
 
 **Stack**
 
-JavaScript • HTML • CSS 
+JavaScript • HTML • CSS
 
 </td>
 
@@ -144,7 +114,6 @@ React • TypeScript • Data Analysis
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,nodejs"/>
 
-
 ### Infrastructure & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
@@ -171,7 +140,6 @@ React • TypeScript • Data Analysis
 
 - Python
 - SQL
-- Databricks
 - PostgreSQL
 - Data Analysis
 - Data Processing
