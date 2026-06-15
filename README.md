@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 Computer Science student at **FIAP** focused on **Data Engineering, Artificial Intelligence and Automation**.
 
@@ -25,19 +25,19 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 ---
 
-# 📍 Current Journey
+#  Current Journey
 
-- 🤖 AI & Automation Intern at Starmeta
-- 🎓 Computer Science Student @ FIAP
-- 🚀 Building Data, AI and Automation Solutions
+-  AI & Automation Intern at Starmeta
+-  Computer Science Student @ FIAP
+-  Building Data, AI and Automation Solutions
 
 ---
 
-# 💼 Experience
+#  Experience
 
 <img src="images/STARMETA_LOGO.jpg" width="180"/>
 
-### 🤖 Starmeta
+###  Starmeta
 
 **AI & Automation Intern**
 
@@ -52,7 +52,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 
@@ -60,7 +60,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 <td valign="top" width="50%">
 
-### 🍽 ranGO!
+###  ranGO!
 
 Restaurant inventory and operational management platform focused on inventory control, supplier management and operational efficiency.
 
@@ -72,7 +72,7 @@ JavaScript • HTML • CSS
 
 <td valign="top" width="50%">
 
-### ☀️ GoodWe Challenge
+###  GoodWe Challenge
 
 AI-powered solar simulation assistant and intelligent energy management platform.
 
@@ -88,7 +88,7 @@ Artificial Intelligence • Automation • Energy Analytics
 
 <td valign="top" colspan="2">
 
-### 🌱 Motiva Challenge
+###  Motiva Challenge
 
 Data-driven vegetation monitoring platform developed for highway concessionaires, supporting operational planning, maintenance optimization and decision-making.
 
@@ -104,7 +104,7 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -120,7 +120,7 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 🤖 AI & Automation
+#  AI & Automation
 
 - LangChain
 - LangGraph
@@ -136,7 +136,7 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 📊 Data & Analytics
+#  Data & Analytics
 
 - Python
 - SQL
@@ -150,7 +150,7 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 - Data Engineering
 - Data Analytics
@@ -162,7 +162,7 @@ React • TypeScript • Data Analysis
 
 ---
 
-# 📬 Contact
+#  Contact
 
 <a href="mailto:godoypietro03@gmail.com">
 <img src="https://img.shields.io/badge/Email-godoypietro03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
