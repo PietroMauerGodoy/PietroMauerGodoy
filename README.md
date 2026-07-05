@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Automation-059669?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge"/>
@@ -17,7 +17,7 @@
 
 #  About Me
 
-Computer Science student at **FIAP** focused on **Data Engineering, Artificial Intelligence and Automation**.
+Computer Science student at **FIAP** focused on **Data Analystics, Artificial Intelligence and Automation**.
 
 Currently working as an **AI & Automation Intern at Starmeta**, developing intelligent systems, AI agents, automations and data-driven solutions.
 
@@ -29,7 +29,7 @@ I enjoy building solutions that combine data, backend engineering and artificial
 
 -  AI & Automation Intern at Starmeta
 -  Computer Science Student @ FIAP
--  Building Data, AI and Automation Solutions
+-  Analystics Data, AI and Automation Solutions
 
 ---
 
