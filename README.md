@@ -1,45 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pietro%20Mauer%20Godoy&fontSize=60&fontAlign=50&fontAlignY=35&desc=Data%20%7C%20Artificial%20Intelligence%20%7C%20Automation&descAlign=50&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pietro%20Mauer%20Godoy&fontSize=60&fontAlign=50&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Artificial%20Intelligence&descAlign=50&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Intern+at+Starmeta;Computer+Science+Student+at+FIAP;Building+Data-Driven+and+AI-Powered+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+FIAP;Data+Intern+at+Avenue;Building+a+Career+in+Data+%26+AI"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-10B981?style=for-the-badge"/>
 </p>
 
 ---
 
 #  About Me
 
-Computer Science student at **FIAP** focused on **Data Analystics, Artificial Intelligence and Automation**.
+Computer Science student at **FIAP** passionate about **Data Analytics, Business Intelligence and Artificial Intelligence**.
 
-Currently working as an **AI & Automation Intern at Starmeta**, developing intelligent systems, AI agents, automations and data-driven solutions.
+Currently working as a **Data Intern at Avenue**, where I'm developing my knowledge in data analytics, business intelligence and data-driven solutions.
 
-I enjoy building solutions that combine data, backend engineering and artificial intelligence to solve real-world problems and generate business impact.
+Previously worked as an **AI & Automation Intern at Starmeta**, developing intelligent systems, AI agents and workflow automations.
+
+I enjoy transforming data into valuable insights and building solutions that combine analytics, backend engineering and artificial intelligence to solve real-world business problems.
 
 ---
 
 #  Current Journey
 
--  AI & Automation Intern at Starmeta
--  Computer Science Student @ FIAP
--  Analystics Data, AI and Automation Solutions
+-  Data Intern at @Avenue
+-  Computer Science Student @FIAP
+-  Learning SQL, Data Analytics & Business Intelligence
+-  Exploring Artificial Intelligence & Automation
 
 ---
 
-#  Experience
+# 💼 Experience
+
+<img src="images/avenueus_logo.jpg" width="180"/>
+
+### Avenue
+
+**Data Intern**
+
+Currently working as a Data Intern, learning and contributing to data analytics and business intelligence initiatives.
+
+---
 
 <img src="images/STARMETA_LOGO.jpg" width="180"/>
 
-###  Starmeta
+### Starmeta
 
 **AI & Automation Intern**
+
+Developed intelligent solutions using Artificial Intelligence and workflow automation.
 
 - AI Agents
 - LangChain
@@ -86,7 +101,7 @@ Artificial Intelligence • Automation • Energy Analytics
 
 <tr>
 
-<td valign="top" colspan="2">
+<td colspan="2">
 
 ###  Motiva Challenge
 
@@ -108,41 +123,37 @@ React • TypeScript • Data Analysis
 
 ### Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
+</p>
 
-### Data Analytics & Backend
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,nodejs"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
 
 ### Infrastructure & Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
-
----
-
-#  AI & Automation
-
-- LangChain
-- LangGraph
-- OpenAI API
-- AI Agents
-- RAG Architectures
-- Prompt Engineering
-- n8n
-- REST APIs
-- Webhooks
-- Workflow Automation
-- LLM Integrations
+</p>
 
 ---
 
 #  Data & Analytics
 
-- Python
 - SQL
+- Python
 - PostgreSQL
 - Data Analysis
-- Data Processing
+- Business Analytics
 - Data Modeling
 - ETL Concepts
 - Business Intelligence
@@ -150,13 +161,39 @@ React • TypeScript • Data Analysis
 
 ---
 
+#  AI & Automation
+
+- AI Agents
+- LangChain
+- LangGraph
+- OpenAI API
+- Prompt Engineering
+- RAG Architectures
+- n8n
+- REST APIs
+- Workflow Automation
+- LLM Integrations
+
+---
+
+#  Currently Learning
+
+- SQL
+- Data Analytics
+- Business Intelligence
+- Data Warehousing
+- Commercial Intelligence
+- Business Metrics
+
+---
+
 #  Areas of Interest
 
-- Data Engineering
 - Data Analytics
-- Artificial Intelligence
-- Workflow Automation
 - Business Intelligence
+- Data Engineering
+- Artificial Intelligence
+- Machine Learning
 - Backend Development
 - Cloud Computing
 
